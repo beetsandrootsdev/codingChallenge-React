@@ -40,7 +40,7 @@ You can assume that you do not have to support legacy browsers without features 
 
 This will be your `index.html` screen.
 
-You will need to display 3 tiles, which link to the "Europe" page and the "USA" page.
+You will need to display 3 tiles, which link to "USA" page, "Europe" page and Japan page.
 
 ### "USA", "Europe" and "Japan" Pages
 
