@@ -1,4 +1,4 @@
-# codingChallenging-React
+# codingChallenge-React
 
 > Welcome to Beets&Roots Coding Challenge!
 
