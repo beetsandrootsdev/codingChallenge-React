@@ -48,7 +48,7 @@ You will need to display 3 tiles, which link to "USA" page, "Europe" page and Ja
 For each page you will need to fetch this JSON feed [feed/sample.json](https://github.com/vega/vega/blob/master/docs/data/cars.json), then:
 
 - Display the first 20 `entries`
-- Where the entry has a `Horsepwer` attribute value <= 200
+- Where the entry has a `Horsepower` attribute value <= 200
 - Sorted by the `Year` attribute value in ascending order
 
 For each page create a search filter based on  `Year` 
